@@ -22,7 +22,7 @@
 
 **Contributing:**
 
-We welcome contributions from developers who are passionate about creating a better toy-shopping experience. Please refer to our [CONTRIBUTING.md] file for guidelines.
+We welcome contributions from developers who are passionate about creating a better toy-shopping experience. Please refer to our **CONTRIBUTING.md** file for guidelines.
 
 **License:**
 
