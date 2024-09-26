@@ -15,7 +15,7 @@
 
 **Technologies:**
 
-* **Frontend:** React, HTML, CSS, JS, TS
+* **Frontend:** ReactJS, HTML, CSS, JS, TS
 * **Backend:** Node.js, Express.js
 * **Database:** MongoDB
 * **Payment Gateway:** Stripe etc
