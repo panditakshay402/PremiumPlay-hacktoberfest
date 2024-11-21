@@ -18,7 +18,7 @@
 * **Frontend:** ReactJS, HTML, CSS, JS, TS
 * **Backend:** Node.js, Express.js
 * **Database:** MongoDB
-* **Payment Gateway:** Stripe etc
+* **Payment Gateway:** Stripe, etc.
 
 **Contributing:**
 
